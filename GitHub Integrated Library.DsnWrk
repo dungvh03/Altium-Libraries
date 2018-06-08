@@ -1,0 +1,32 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Antenna\Antenna.LibPkg
+[Project2]
+ProjectPath=Capacitors\Capacitors.LibPkg
+[Project3]
+ProjectPath=Connectors\Connector\Connectors.LibPkg
+[Project4]
+ProjectPath=Diodes\Diodes.LibPkg
+[Project5]
+ProjectPath=GSM Module\GSM Module.LibPkg
+[Project6]
+ProjectPath=IC\IC.LibPkg
+[Project7]
+ProjectPath=Inductor\Inductor.LibPkg
+[Project8]
+ProjectPath=LED\LED.LibPkg
+[Project9]
+ProjectPath=Optical\Optical.LibPkg
+[Project10]
+ProjectPath=Oscillator\Quartz crystals\Quartz crystals.LibPkg
+[Project11]
+ProjectPath=Resistors\Resistors.LibPkg
+[Project12]
+ProjectPath=SD_SIM\Card_Connectors.LibPkg
+[Project13]
+ProjectPath=Switch\Switch.LibPkg
+[Project14]
+ProjectPath=Test Point\Test_Points.LibPkg
+[Project15]
+ProjectPath=Transistor\Transistor.LibPkg
