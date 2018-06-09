@@ -2,7 +2,7 @@
 All kind of Library for Altium Designer  
 We are Looking for FreeLancer to dev this Library.  
 FootPrint Adding Rules: (Minimum) (all Color Layer Altium Default)  
-
+--------------------------------------------------------------------  
 Layer 1: TopLayer  
 Layer 2: Top Overlay  
 Layer 3: Mechanical 1 (3D Step)  
