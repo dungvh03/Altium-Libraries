@@ -1,6 +1,5 @@
 # Altium-Libraries  
-All kind of Library for Altium Designer  
-We are Looking for FreeLancer to dev this Library.  
+This is a Open Source Altium Library for Altium Designer 
 --------------------------------------------------------------------  
 FootPrint Adding Rules: (Minimum) (all Color Layer Altium Default)  
 --------------------------------------------------------------------  
